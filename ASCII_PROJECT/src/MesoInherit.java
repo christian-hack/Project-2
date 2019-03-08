@@ -1,5 +1,6 @@
 
 public class MesoInherit extends MesoAbstract {
+	
 	//create String to reference to when finding average letter
 	private String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	//create instance variable to store base average value in order to be used for all averages
@@ -7,11 +8,20 @@ public class MesoInherit extends MesoAbstract {
 	//used to implement abstract member variable: station
 	private String station;
 	
+	
+	//use "this." statement to utilize mesoStation's getStID method
 	public MesoInherit (MesoStation mesoStation) {
 		
 		this.station = mesoStation.getStID();
 	}
-
+	/**
+	 * The idea behind the code was to be able to store values needed to compute each of
+	 * the averages into 4 separate variable of type int and use these to compute the overall
+	 * average value which would be of type double. In the end I'll be using this value (set to a 
+	 * variable of type double) to calculate each average and put these averages into the final 
+	 * int array.
+	 * 
+	 */
 	@Override
 	public int[] calAverage() {
 		int[] averages = new int[3];
