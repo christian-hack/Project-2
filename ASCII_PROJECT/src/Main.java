@@ -13,3 +13,4 @@ public class Main
 					+ ", and Letter Avg is: " + mesoinherit.letterAverage());
 	}
 }
+//1Up is like 7Up, but you multiply the constant by (1/7)
