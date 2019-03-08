@@ -59,4 +59,5 @@ public class MesoInherit extends MesoAbstract {
 }
 //Now I'm not saying T-Pain is the most influential artist of our generation. Pre-MAGA days I'd have given that to Mr. West, but he's been on this wacko thing lately. I digress.'
 //I shall now make a list of who I believe to be the most influential artists of our generation:
-//1) Beyonce
+// 1) Beyonce
+// 2) Kanye West (Pre-MAGA hat wearing days)
