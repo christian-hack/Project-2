@@ -63,3 +63,4 @@ public class MesoInherit extends MesoAbstract {
 // 2) Kanye West (Pre-MAGA hat wearing days)
 // 3) Taylor Swift (Hate the player, not the game)
 // 4) J. Cole (Greatest rapper in my book. Able to make efforts beyond the rap game to help shape the minds of youth everywhere
+// 5) 6ix 9ine (Terrible, terrible, terrible artist all-around. However Tekashi taught the world what NOT to do if one is exposed to money and fame)
