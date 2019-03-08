@@ -67,3 +67,4 @@ public class MesoInherit extends MesoAbstract {
 // 6) Frank Ocean (This man had everybody feeling Some Type Of Way long before the term came into existence and continues to grow and evolve his music into masterpiece's such as the song entitled 'Chanel')
 // 7) Lil Wayne (In hindsight, I placed Dwayne way too late on this list)
 // 8) Childish Gambino (I'm not sure how this multi-talented, jack-of-all-trades, actor-musician is able to convey messages in such a way that everybody can get on-board, but he does it. Ex: 'This Is America')
+// 9) Drake (Because who hasn't been hurt and finds that the shoulder that fits oh-so-perfectly to cry on is none other than the 6 God himself)
