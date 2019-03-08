@@ -1,8 +1,10 @@
 
 public class MesoInherit extends MesoAbstract {
-	
+	//create String to reference to when finding average letter
 	private String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	//create instance variable to store base average value in order to be used for all averages
 	private int ave;
+	//used to implement abstract member variable: station
 	private String station;
 	
 	public MesoInherit (MesoStation mesoStation) {
