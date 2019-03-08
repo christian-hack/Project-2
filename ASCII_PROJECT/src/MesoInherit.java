@@ -40,9 +40,10 @@ public class MesoInherit extends MesoAbstract {
 		ave = (int)(ave1 + 0.5);
 		
 		//set values to int array to be returned
-		averages[1] = (int)(ave1 + 0.5);
-		averages[2] = (int)Math.round(ave1);
-		averages[0] = (int)(Math.round(ave1) + 1);
+		averages[0] = (int)(Math.ceil(ave1) + 2);
+		averages[1] = (int)Math.round(ave1 + 0.5);
+		averages[2] = (int)Math.round(ave1 + 2);
+		
 		
 		//return int array
 		return averages;
@@ -51,7 +52,7 @@ public class MesoInherit extends MesoAbstract {
 	@Override
 	public char letterAverage() {
 		
-		return alphabet.charAt(ave - 64);
+		return alphabet.charAt(ave - 63);
 		
 	}
 	
