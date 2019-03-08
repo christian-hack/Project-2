@@ -24,20 +24,27 @@ public class MesoInherit extends MesoAbstract {
 	 */
 	@Override
 	public int[] calAverage() {
+		
+		//create array of ints to store averages into to be returned at end
 		int[] averages = new int[3];
+		
+		//create int variables to use for normal average value
 		int a = alphabet.indexOf(station.charAt(0)) + 64;
 		int b = alphabet.indexOf(station.charAt(1)) + 64;
 		int c = alphabet.indexOf(station.charAt(2)) + 64;
 		int d = alphabet.indexOf(station.charAt(3)) + 64;
 		
+		//create double value to store normal average value into
 		double ave1 = (a + b + c + d)/4;
+		//initialize int value to be utilized for letterAverage method
 		ave = (int)(ave1 + 0.5);
 		
+		//set values to int array to be returned
 		averages[1] = (int)(ave1 + 0.5);
 		averages[2] = (int)Math.round(ave1);
 		averages[0] = (int)(Math.round(ave1) + 1);
 		
-		
+		//return int array
 		return averages;
 	}
 
