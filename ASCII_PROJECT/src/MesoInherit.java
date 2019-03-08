@@ -62,3 +62,4 @@ public class MesoInherit extends MesoAbstract {
 // 1) Beyonce
 // 2) Kanye West (Pre-MAGA hat wearing days)
 // 3) Taylor Swift (Hate the player, not the game)
+// 4) J. Cole (Greatest rapper in my book. Able to make efforts beyond the rap game to help shape the minds of youth everywhere
