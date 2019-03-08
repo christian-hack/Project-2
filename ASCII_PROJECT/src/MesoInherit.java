@@ -61,3 +61,4 @@ public class MesoInherit extends MesoAbstract {
 //I shall now make a list of who I believe to be the most influential artists of our generation:
 // 1) Beyonce
 // 2) Kanye West (Pre-MAGA hat wearing days)
+// 3) Taylor Swift (Hate the player, not the game)
