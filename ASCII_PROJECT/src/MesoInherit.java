@@ -51,7 +51,7 @@ public class MesoInherit extends MesoAbstract {
 
 	@Override
 	public char letterAverage() {
-		
+		//goes into alphabet String to find the number that correlates to the average minus 63
 		return alphabet.charAt(ave - 63);
 		
 	}
