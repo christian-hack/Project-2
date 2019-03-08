@@ -7,3 +7,4 @@ public abstract class MesoAbstract
 	abstract char letterAverage();
 		
 }
+//Favorite song off of the album so far would have to be "A Million Times"
