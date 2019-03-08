@@ -1,4 +1,4 @@
-
+//It's honestly a relief to see T-Pain in the spotlight again, many people just can't seem to remember how influential his music actually was
 
 public abstract class MesoAbstract 
 {
