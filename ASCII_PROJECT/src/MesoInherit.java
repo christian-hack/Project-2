@@ -68,3 +68,4 @@ public class MesoInherit extends MesoAbstract {
 // 7) Lil Wayne (In hindsight, I placed Dwayne way too late on this list)
 // 8) Childish Gambino (I'm not sure how this multi-talented, jack-of-all-trades, actor-musician is able to convey messages in such a way that everybody can get on-board, but he does it. Ex: 'This Is America')
 // 9) Drake (Because who hasn't been hurt and finds that the shoulder that fits oh-so-perfectly to cry on is none other than the 6 God himself)
+// 10) Kendrick Lamar (Okay this was a big screw-up. Kendrick should have at least been numero dos on this list, but you can almost take this list and reverse it at this point. Kendrick gives new meaning to the term, GOAT. His long-awaited album 'DAMN' may well go down in history as one of the best albums of all-time.)
