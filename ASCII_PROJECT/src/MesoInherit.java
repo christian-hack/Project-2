@@ -64,3 +64,4 @@ public class MesoInherit extends MesoAbstract {
 // 3) Taylor Swift (Hate the player, not the game)
 // 4) J. Cole (Greatest rapper in my book. Able to make efforts beyond the rap game to help shape the minds of youth everywhere
 // 5) 6ix 9ine (Terrible, terrible, terrible artist all-around. However Tekashi taught the world what NOT to do if one is exposed to money and fame)
+// 6) Frank Ocean (This man had everybody feeling Some Type Of Way long before the term came into existence and continues to grow and evolve his music into masterpiece's such as the song entitled 'Chanel')
